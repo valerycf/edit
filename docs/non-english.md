@@ -1111,6 +1111,8 @@
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [Naikamu](https://naikamu.com/) - Anime Streaming / Android
+* [eKino-TV](https://ekino-tv.online/) - Movies / Series / Sub / 1080p
+
 
 ## ▷ Reading / Czytanie
 
@@ -1627,6 +1629,7 @@
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / LATAM Only
+* [Cuevana Latino](https://cuevana.lat/) - Movies / TV / Anime LATAM Only
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
